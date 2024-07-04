@@ -2,7 +2,7 @@
 
 
 
-![](images/architecture-1.jpg)
+![](images/network.jpg)
 
 
 ## Usage
