@@ -2,7 +2,7 @@
 
 
 
-![](images/architecture.jpg)
+![](images/architecture-1.jpg)
 
 
 ## Usage
