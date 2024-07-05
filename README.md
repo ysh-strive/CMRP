@@ -1,6 +1,8 @@
 # Text-Based Person Retrieval via Cross-Modality Redundant Perception
 
-
+Shuai You$^{1}$, Yujian Feng$^{^{1}}$, Cuiqun Chen$^{2}$, Fei Wu$^{^{1}}$, and Yimu Ji$^{^{1}*}$, Xiao-Yuan Jing$^{2}$
+$^{1}$ Nanjing University of Posts and Telecommunications
+$^{2}$ Wuhan University
 
 ![](images/network.jpg)
 
