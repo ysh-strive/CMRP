@@ -48,7 +48,7 @@ The training script will be made publicly available after the paper is accepted.
 python test.py
 ```
 #### Comparison with other methods on three datasets (CUHK-PEDES, ICFG-PEDES, and RSTPReid). Rank-1, Rank-5, and Rank-10 represent the accuracy (%), with higher values indicating better performance.
-![](images/Result.png)
+![](images/result.png)
 
 
 
