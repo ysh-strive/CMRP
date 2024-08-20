@@ -40,7 +40,7 @@ Organize them in `your dataset root dir` folder as follows:
 
 ## Training
 ```python
-The training script will be made publicly available after the paper is accepted.
+python train.py
 ```
 ## Testing
 
