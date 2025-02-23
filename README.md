@@ -1,7 +1,7 @@
 # Text-Based Person Retrieval via Cross-Modality Redundant Perception
 
 
-![](images/network.jpg)
+![](images/network-2024-11-24v2.jpg)
 
 
 ## Usage
@@ -48,7 +48,7 @@ python train.py
 python test.py
 ```
 #### Comparison with other methods on three datasets (CUHK-PEDES, ICFG-PEDES, and RSTPReid). Rank-1, Rank-5, and Rank-10 represent the accuracy (%), with higher values indicating better performance.
-![](images/network-2024-11-24v2.jpg)
+![](images/result.png)
 
 
 
